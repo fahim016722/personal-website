@@ -1,0 +1,188 @@
+  
+  body{font-family: Verdana;}
+  
+  h1 {margin-left: 40px;
+      margin-top:50px;
+      font-size: 50px;
+    line-height: 50px;}
+    
+  .orange-highlight{color:orange;}
+
+  body{margin:0px;}
+
+  section{height: 500px;
+  background-color: white;}
+  
+.stack{margin-left: 40px;
+  margin-bottom: 30px;
+  width:300px;
+  margin-top: -20px;}
+
+ .button{background-color: #ff6600;         
+         margin-left: 40px;
+         border-radius:5px;
+         text-decoration-line: none;
+         padding:15px 20px; 
+         color:white; }
+
+ .dav{color:orange;
+    font-size:40px ;}        
+.half-width img{width:100%;
+       margin-top: 30px;
+       margin-left: 90px;
+}
+
+.half-width{width:40%;
+            float:left;
+            margin-left: 40px;}
+
+.about{width:40%;
+       float:left;}
+
+.about img{width:100%;}
+
+.new{margin-left: 380px;
+     margin-bottom:30px ;}
+
+.me{margin-left: 380px;
+  text-align: justify;  
+  width:280px;
+  margin-bottom: 30px;}
+  
+  #botam{background-color: #ff6600;         
+   
+    border-radius:5px;
+    text-decoration-line: none;
+    padding:15px 20px; 
+    color:white; 
+    margin-left:380px;}
+
+
+#third {background-color:#eff3f5;
+height:700px;
+padding:60px;}
+
+.picture{width:25%;
+  height: 350px;
+  float: left;
+  padding: 10px;
+  margin-left: 50px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 5px 5px 20px grey;}
+
+h2{text-align: center;
+   font-size: 40px;
+   color:rgb(41, 45, 56);
+  padding-bottom: 30px;
+padding-top: 50px;}
+         
+.picture img{width:100%;}
+
+h3{font-size: 17px;
+color:rgb(41, 41, 41);
+margin-left: 10px;}
+
+.description {font-size: 14px;
+color: rgb(80, 78, 78);
+margin-left: 10px;}
+
+#forth{margin-top: -50px;
+  padding-top:100px;
+  height:600px;}
+
+.work{width:60%;
+height:150px;
+margin-left: 280px;
+padding-bottom: 50px;
+background-color: rgb(122, 122, 233);
+border-radius:20px;
+background-image: url(images/Group_33094_1.png);
+background-repeat: no-repeat;}
+
+
+.com{width:50%;
+    float:left;
+    padding-top: 15px;}
+
+ .mar{margin-left:60px;
+      margin-top:60px;
+      font-size:40px; }
+
+
+ .sun{margin-left: 200px;
+      margin-bottom:160px;
+      font-size:30px ;}
+
+button{padding: 20px 40px;
+      border-radius: 8px;
+      background-color: tomato;
+      color: white;
+      border-color: tomato;
+      font-size:16px;}
+
+.last{width:60%;
+margin-left: 280px;}
+
+.connect{text-align: center;
+  color: grey;
+font-size: 25px;}
+
+.email{font-size: 40px;
+color: rgb(1, 1, 43);
+text-align: center;}
+
+.social img{width:48%;}
+.social{width:5%;
+float: left;}
+
+.a{margin-left: 620px;}
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+ 
+      
+      
+
+
+
+          
+
+
+
+
+
+
+        
+
+
+
+
+     
+
+
+
+
+
+
+      
+
+
+    
+      
+           
+
+
+
+
+
